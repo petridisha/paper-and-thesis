@@ -1,3 +1,6 @@
-# special-issue
+# paper-and-thesis
 
-Code for special issue on urban / rural comparison of PAH output.
+Code for paper on Arctic and US PAHs' regional and sectoral comparison.
+
+Will be used for thesis.
+More soon.
